@@ -1,5 +1,5 @@
-// document ready
-$(document).ready(function () {
+
+
     // هنگام بارگذاری صفحه، موقعیت اسکرول را بازیابی کنیم  
     if (sessionStorage.getItem('scrollPosition')) {
         $(window).scrollTop(sessionStorage.getItem('scrollPosition'));
@@ -330,4 +330,3 @@ $(document).ready(function () {
 
 
 
-});

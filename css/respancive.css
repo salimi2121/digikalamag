@@ -1,7 +1,6 @@
 /* mobail (small devices) */
 
 @media screen and (max-width : 370px) {
-    
     .m6-title-btn {
         font-size: 12px !important;
     }
